@@ -1,0 +1,29 @@
+_repo: Complete-Works-of-Plutarch---Volume-3--Essays-and-Miscellanies_3052
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Plutarch
+    birthdate: 46
+    deathdate: 119
+    gutenberg_agent_id: '342'
+    url: http://www.gutenberg.org/2009/agents/342
+    wikipedia: http://en.wikipedia.org/wiki/Plutarch
+description: ''
+gutenberg_issued: '2002-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3052'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Classical literature'
+- !lcc 'PA'
+- !lcsh 'Philosophy'
+- !lcsh 'Homer'
+- !lcsh 'Essays'
+- !lcsh 'Ethics'
+- GITenberg
+title: 'Complete Works of Plutarch — Volume 3: Essays and Miscellanies'
+url: http://www.gutenberg.org/ebooks/3052
